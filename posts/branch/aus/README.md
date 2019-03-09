@@ -1,3 +1,3 @@
 # posts/branch/aus
 
-Posts for the Australian Federal party.
+Posts in this directory are common among ALL Aus branches
